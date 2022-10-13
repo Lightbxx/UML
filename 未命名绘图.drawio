@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T10:46:07.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="NsKbZYH3CCTZwLZcXRzY" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T10:47:14.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="Pn_40OBBD2sCmhZs5cgi" version="20.4.0" type="github">
   <diagram id="Hg01c8yL0vzKY2bh_a4h" name="第 1 页">
-    <mxGraphModel dx="1730" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="720" y="10" width="180" height="570" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="630" height="570" as="geometry" />
+          <mxGeometry x="70" y="10" width="630" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="ICSgazTlzsJLQmgzwEMn-2" target="ICSgazTlzsJLQmgzwEMn-14">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;内核渲染引擎&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="380" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="180" height="210" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="665" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-46" value="Local" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="505" y="525" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="210" height="320" as="geometry" />
@@ -120,12 +120,6 @@
         </mxCell>
         <mxCell id="ICSgazTlzsJLQmgzwEMn-58" value="&lt;h1&gt;远程&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="780" y="-19" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ICSgazTlzsJLQmgzwEMn-61" value="CPU" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=22;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ICSgazTlzsJLQmgzwEMn-62" value="GPU" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=22;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="480" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
